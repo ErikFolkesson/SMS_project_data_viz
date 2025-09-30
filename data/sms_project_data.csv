@@ -1,9 +1,9 @@
 Link,Title Screening (Passed or not),Comment on Title Screening (Always needed if excluded),Abstract Screening (Passed or not),Comment on Abstract Screening,Year,KEYWORDS: Topics (Focus Area),CLEAN KEYWORDS: Topics (Focus Area),KEYWORDS: Types of research,KEYWORDS: Type of Organization (Determined by association of main researcher)
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11157690/,Included,,Unsure,Might be in the realm of theoretical? ,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11026879/,Included,,Excluded,Nothing to do with cloud deployment (or edge),,,,,
-https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10967934/,Included,,Included,,2025,Autonomous navigation,Autonomous navigation,Evaluation research,University
+https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10967934/,Included,,Included,,2025,Autonomous navigation,Transportation,Evaluation research,University
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11065204/,Included,Fault Detection might be industry application?,Included,,2025,"Fault Detection in Cloud Computing, Autonomous Self-Healing",Cloud Reliability and Resilience,"Solution Proposal, Validation Research",University
-https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10771985/,Included,,Included,,2024,"Advanced driver assistance systems (ADASs), cloud-edge collaborative ADAS","Cloud-Edge Collaboration, Car Industry","Solution Proposal, Validation Research",University
+https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10771985/,Included,,Included,,2024,"Advanced driver assistance systems (ADASs), cloud-edge collaborative ADAS",Transportation,"Solution Proposal, Validation Research",University
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10743009/,Excluded,No mention of LLM,,,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11060574/,Included,,Excluded,"No explicit industry application, only general 6G",,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11030757/,Included,,Included,,2025,Large Models as a Service in Industrial IoT,Industrial IoT (IIoT),Survey Research,University
@@ -17,7 +17,7 @@ https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11029052/,Excluded,No LLM,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10835069/,Included,,Unsure,"They demonstrate applications as a justification for their survey, might not be enough",,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10835694/,Included,,Excluded,Not an industry application,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11096232/,Excluded,Security focus,,,,,,,
-https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10774292/,Included,,Included,,2024,Robotic disassembly of batteries,"Robotics, Manufacturing",Evaluation research,University
+https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10774292/,Included,,Included,,2024,Robotic disassembly of batteries,Manufacturing,Evaluation research,University
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/9783185/,Excluded,No LLM,,,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11139558/,Included,,Excluded,No direct industry application,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10468995/,Included,,Unsure,"Medical application. Also, does IoT count as cloud?",,,,,
@@ -49,7 +49,7 @@ https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10983192/,Included,,Excluded,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11065466/,Excluded,Theoretical,,,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10833575/,Excluded,Theoretical,,,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11009153/,Excluded,No LLM,,,,,,,
-https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10742575/,Included,,Included,,2024,"Large-Scale Traffic Flow Forecast (Cars, not cloud), Intelligent Transportation Systems (ITS)","Traffic Flow Forecast, Car Industry","Solution Proposal, Validation Research",University
+https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10742575/,Included,,Included,,2024,"Large-Scale Traffic Flow Forecast (Cars, not cloud), Intelligent Transportation Systems (ITS)",Transportation,"Solution Proposal, Validation Research",University
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/11119366/,Excluded,,Excluded,,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10260246/,Excluded,,Excluded,,,,,,
 https://ieeexplore-ieee-org.ep.bib.mdh.se/document/10720312/,Included,,Included,,,,,,
@@ -124,7 +124,7 @@ https://dl-acm-org.ep.bib.mdh.se/doi/10.1145/3737412.3743491,Excluded,"workload 
 https://dl-acm-org.ep.bib.mdh.se/doi/10.1145/3727353.3727475,Excluded,propagation strategies for security and vulnerability detection,Excluded,"technical aspects of taint analysis, data flow tracking, and potential integration with fuzz testing",,,,,
 https://dl-acm-org.ep.bib.mdh.se/doi/10.1145/3690407.3690515,Included,,Included,,2024,"LLMs in data cloud systems, cloud-native operations",Cloud Reliability and Resilience,system development + empirical evaluation,University
 https://dl-acm-org.ep.bib.mdh.se/doi/10.1109/SCW63240.2024.00266,Excluded,AI applications and workflows,Excluded,AI in climate research using high-performance computing resources,,,,,
-https://dl-acm-org.ep.bib.mdh.se/doi/10.1145/3674805.3686671,Included,,Included,,2024,optimizing LLM utilization via schedule optimization,LLM Efficieny and Resource Usage,applied systems design + evaluation,University
+https://dl-acm-org.ep.bib.mdh.se/doi/10.1145/3674805.3686671,Included,,Included,,2024,optimizing LLM utilization via schedule optimization,LLM Deployment and Optimization,applied systems design + evaluation,University
 https://dl-acm-org.ep.bib.mdh.se/doi/10.1145/3626203.3670524,Excluded,benchmarking HPC resources for AI research,Excluded,"AI infrastructure, HPC servers, benchmarking",,,,,
 https://www-scopus-com.ep.bib.mdh.se/pages/publications/105014186886?origin=resultslist,Excluded,agentic intelligence and autonomous AI,Unsure,"abstract mentions LLMs among other AI enablers, the main focus is on agentic intelligence",,,,,
 https://www-scopus-com.ep.bib.mdh.se/pages/publications/105006980579?origin=resultslist,Included,,Excluded,"LLM applications in cybersecurity, IDS, IoT, and autonomous vehicles",,,,,
